@@ -400,5 +400,7 @@ $RECYCLE.BIN/
 
 ._*
 
-Servers/*
-target/*
+Servers/**
+target/**
+
+META-INF/**
