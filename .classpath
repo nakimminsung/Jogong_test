@@ -39,5 +39,40 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
+=======
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Project_jogong/apache-tomcat-9.0.65"/>
+>>>>>>> c2bf130f3c28bfa5665fb0cfd3b180d95b606296
+=======
+	<classpathentry kind="lib" path="C:/Users/LG/Desktop/apache-tomcat-9.0.65"/>
+>>>>>>> 9e17004af7e7b229f088e8295d9aa04549b94ce8
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+>>>>>>> 9e17004af7e7b229f088e8295d9aa04549b94ce8
+>>>>>>> 38cebeed44f2d5378bdb89a1da2cc25c351b892c
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
