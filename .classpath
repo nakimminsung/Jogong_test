@@ -63,7 +63,11 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/chan/Downloads/apache-tomcat-9.0.46"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/LG/Desktop/apache-tomcat-9.0.65"/>
+>>>>>>> 9e17004af7e7b229f088e8295d9aa04549b94ce8
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="output" path="target/classes"/>
